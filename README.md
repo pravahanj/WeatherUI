@@ -4,10 +4,10 @@
 
 ###This is a model UI for a Weather app including light and dark mode.
 
-###Light
+Light
 ![alt text](Images/Light.PNG)
 
-###Dark
+Dark
 ![alt text](Images/Dark.PNG)
 
 
