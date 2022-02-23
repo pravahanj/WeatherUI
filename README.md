@@ -1,14 +1,12 @@
 # WeatherUI
 
-### My first attempt at iOS Development.
+## This is a model UI for a Weather app including light and dark mode.
 
-###This is a model UI for a Weather app including light and dark mode.
+<h2>Light</h2> 
+<img src= "Images/Light.png" width = "300">
 
-Light
-![alt text](Images/Light.PNG)
-
-Dark
-![alt text](Images/Dark.PNG)
+<h2>Dark</h2>
+<img src= "Images/Dark.png" width = "300">
 
 
 
